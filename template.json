@@ -1,0 +1,7 @@
+{
+  "name": "wails-template-angular-latest",
+  "shortname": "wails-angular-latest",
+  "author": "mJehanno",
+  "description": "A generated wails template that support angular 17 and might try to support latest.",
+  "helpurl": "https://github.com/mJehanno/wails-template-angular-latest"
+}
